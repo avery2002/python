@@ -1,0 +1,33 @@
+[
+  {
+    "name": "John Doe",
+    "age": 28,
+    "city": "Chandler",
+    "scores": {
+      "math": 90,
+      "english": 85,
+      "history": 78
+    },
+    "pet": "Fido"
+  },
+  {
+    "name": "Jane Smith",
+    "age": 28,
+    "city": "Sampletown",
+    "scores": {
+      "math": 95,
+      "english": 88,
+      "history": 92
+    }
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 22,
+    "city": "Testburg",
+    "scores": {
+      "math": 80,
+      "english": 75,
+      "history": 82
+    }
+  }
+]
